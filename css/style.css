@@ -196,6 +196,11 @@
     border-radius: 30px;
 }
 
+.softimg img
+{
+    width:50px;
+}
+
 
 .nav-list li a
 {
@@ -222,7 +227,16 @@
     font-size:25px;
     color:White;
 }
+.footer, .heading
+{
+    font-size:25px;
+    color:White;
+}
 
+.image5 img
+{
+    width:100px;
+}
 
 
 
@@ -233,9 +247,21 @@
     {
         width: 50px;
     }
+    .softimg img
+{
+    width:50px;
+}
     .nav-list li a
     {
         font-size: 20px;
+    }
+    .textbig
+    {
+       font-size: 20px; 
+    }
+    .textbig
+    {
+       font-size: 20px; 
     }
     .myphoto img
     {
@@ -245,6 +271,14 @@
     {
         font-size:25px;
     }
+    .footer, .heading
+    {
+        font-size:25px;
+    }
+    .image5 img
+{
+    width:100px;
+}
 
 }
 @media (max-width: 1500px)
@@ -253,9 +287,17 @@
     {
         width: 40px;
     }
+    .softimg img
+{
+    width:40px;
+}
     .nav-list li a
     {
         font-size: 18px;
+    }
+    .textbig
+    {
+       font-size: 18px; 
     }
     .myphoto img
     {
@@ -265,6 +307,14 @@
     {
         font-size:20px;
     }
+    .footer, .heading
+    {
+        font-size:20px;
+    }
+    .image5 img
+{
+    width:80px;
+}
 }
 @media (max-width: 1000px)
 {
@@ -272,9 +322,17 @@
     {
         width: 35px;
     }
+    .softimg img
+{
+    width:35px;
+}
     .nav-list li a
     {
         font-size: 16px;
+    }
+    .textbig
+    {
+       font-size: 16px; 
     }
     .myphoto img
     {
@@ -284,6 +342,14 @@
     {
         font-size:16px;
     }
+    .footer, .heading
+    {
+        font-size:16px;
+    }
+    .image5 img
+{
+    width:60px;
+}
 }
 
 @media (max-width: 500px)
@@ -292,9 +358,17 @@
     {
         width: 30px;
     }
+    .softimg img
+{
+    width:30px;
+}
     .nav-list li a
     {
         font-size: 14px;
+    }
+    .textbig
+    {
+       font-size: 14px; 
     }
     .myphoto img
     {
@@ -304,6 +378,13 @@
     {
         font-size:12px;
     }
-
+    .footer, .heading
+    {
+        font-size:12px;
+    }
+    .image5 img
+{
+    width:40px;
 }
 
+}
