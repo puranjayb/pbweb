@@ -219,7 +219,7 @@
 .aboutme
 {
     text-align:justify;
-    font-size:30px;
+    font-size:25px;
     color:White;
 }
 
@@ -243,7 +243,7 @@
     }
     .aboutme
     {
-        font-size:30px;
+        font-size:25px;
     }
 
 }
@@ -263,7 +263,7 @@
     }
     .aboutme
     {
-        font-size:25px;
+        font-size:20px;
     }
 }
 @media (max-width: 1000px)
@@ -282,8 +282,7 @@
     }
     .aboutme
     {
-        font-size:20px;
-        width:1000px;
+        font-size:16px;
     }
 }
 
@@ -303,8 +302,7 @@
     }
     .aboutme
     {
-        font-size:20px;
-        width:1000px;
+        font-size:12px;
     }
 
 }
