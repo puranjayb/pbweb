@@ -81,7 +81,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .contact
@@ -109,12 +109,7 @@
     font-size: 20px;
 }
 
-.softimg tr td img
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 .table
 {
@@ -128,41 +123,11 @@
 }
 
 
-.spadding
-{
-    padding-top: 180px;
-}
-
-.ipadding
-{
-    padding-top: 40px;
-}
 
 
-.rpadding
-{
-    padding-top: 365px;
-}
 
-.cpadding
-{
-    padding-top: 183px;
-}
 
-.ppadding
-{
-    padding-top: 200px;
-}
 
-.apadding
-{
-    padding-top: 145px;
-}
-
-.tpadding
-{
-    padding-top: 100px;
-}
 
 .footer
 {
@@ -197,7 +162,7 @@
 
 .softimg img
 {
-    width: 50px;
+    width: 100px;
 }
 
 
@@ -236,6 +201,22 @@
 {
     width: 100px;
 }
+
+
+.Content0
+{
+    font-size: 40px;
+    color: White;
+    text-decoration:none;
+}
+.Content0:hover
+{
+    font-family: 'Times New Roman' , Times, serif;
+    color: orange;
+}
+
+
+
 .Content1
 {
     font-size: 40px;
@@ -279,7 +260,7 @@ iframe
     }
     .softimg img
     {
-        width: 50px;
+        width: 100px;
     }
     .nav-list li a
     {
@@ -308,6 +289,10 @@ iframe
     .image5 img
     {
         width: 100px;
+    }
+    .Content0
+    {
+        font-size: 40px;
     }
     .Content1
     {
@@ -342,7 +327,7 @@ iframe
     }
     .softimg img
     {
-        width: 40px;
+        width: 80px;
     }
     .nav-list li a
     {
@@ -354,7 +339,7 @@ iframe
     }
     .myphoto img
     {
-        width: 400px;
+        width: 300px;
     }
     .aboutme
     {
@@ -367,6 +352,10 @@ iframe
     .image5 img
     {
         width: 80px;
+    }
+    .Content0
+    {
+        font-size: 30px;
     }
     .Content1
     {
@@ -400,7 +389,7 @@ iframe
     }
     .softimg img
     {
-        width: 35px;
+        width: 60px;
     }
     .nav-list li a
     {
@@ -413,7 +402,7 @@ iframe
 
     .myphoto img
     {
-        width: 300px;
+        width: 200px;
     }
     .aboutme
     {
@@ -426,6 +415,10 @@ iframe
     .image5 img
     {
         width: 60px;
+    }
+    .Content0
+    {
+        font-size: 25px;
     }
     .Content1
     {
@@ -452,6 +445,21 @@ iframe
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 500px)
 {
     .logo img
@@ -460,7 +468,7 @@ iframe
     }
     .softimg img
     {
-        width: 30px;
+        width: 40px;
     }
     .nav-list li a
     {
@@ -472,7 +480,7 @@ iframe
     }
     .myphoto img
     {
-        width: 200px;
+        width: 50px;
     }
     .aboutme
     {
@@ -485,6 +493,10 @@ iframe
     .image5 img
     {
         width: 40px;
+    }
+    .Content0
+    {
+        font-size: 20px;
     }
     .Content1
     {
